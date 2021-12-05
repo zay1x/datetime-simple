@@ -19,8 +19,8 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install is-odd
-$ yarn add is-odd
+$ npm install datetime-simple
+$ yarn add datetime-simple
 ```
 
 ## Usage
