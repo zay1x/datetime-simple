@@ -1,0 +1,15 @@
+{
+  "name": "datetime-simple",
+  "version": "1.0.0",
+  "description": "Get datetime simple",
+  "main": "index.js",
+  "repository": "https://github.com/WhoAmI1x/datetime-simple.git",
+  "author": "WhoAmI1x",
+  "license": "MIT",
+  "scripts": {
+    "test": "node examples/index.js"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.34"
+  }
+}
