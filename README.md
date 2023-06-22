@@ -12,7 +12,7 @@
 
 - 🎉 **Simple** usage.
 - 💪 Written in **JavaScript**.
-- 🚀 **Ony one** dependencies.
+- 🚀 **Only one** dependencies.
 
 ## Installation
 
